@@ -12,8 +12,8 @@ HYSTERIA_TYPE='default';
 PORT_VLESS='442';
 API_LINK='https://freemb.top/api/authentication';
 API_KEY='@Tknetwork';
-DOMAIN=6drt.tkdns.top
-NS=6sa6.tkdns.top
+DOMAIN=zi1k.tkdns.top
+NS=nwqb.tkdns.top
 timedatectl set-timezone Asia/Riyadh
 if [[ $(grep "nogroup" /etc/group) ]]; then
     cert_group="nogroup"
